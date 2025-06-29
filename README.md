@@ -1,0 +1,1 @@
+# fitscope-privacy
