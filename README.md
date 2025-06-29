@@ -32,7 +32,7 @@ FitScope does not use any third-party services or SDKs that collect data.
 If you have any questions about this privacy policy, feel free to contact:
 
 **Patrick Lorenz**  
-📧 patrick@example.com
+📧 patrick.lorenz@bfd-lorenz.de
 
 ---
 
